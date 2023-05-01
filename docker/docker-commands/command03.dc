@@ -1,0 +1,1 @@
+docker ps --a --filter "nome=01container"
